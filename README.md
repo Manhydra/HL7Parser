@@ -3,12 +3,6 @@ HL7 (Health Level Seven) message parser.
 
 Gets raw hl7 message string and returns structured object of the hl7 message.
 
-## NOTE:
-
-**This fork is only to serve the purpose of maintaining existing functionality and security through dependency upgrades and minor code changes.**
-
-**For information on new developments, visit the [pull requests](https://github.com/GoygovRustam/HL7Parser/pulls) and [issues](https://github.com/GoygovRustam/HL7Parser/issues) sections from the upstream.**
-
 ## Steps:
 
 ### 1 - Install library.
